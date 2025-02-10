@@ -41,3 +41,31 @@ git remote -v
 git remote add origin https://github.com/Anekh16S/anekh
 git remote -v
 git push -u origin master
+git remote -v
+ls
+cat myfile.txt
+vi myfile.txt
+git status
+git add .
+git commit -m "new line created"
+git status
+cat index.hrml
+cat myfile.txt
+git push -u origin master
+git pull 
+cat myfile.txt
+git log --oneline
+git log --graph
+cat myfile.txt
+vi myfile.txt
+git status
+git add .
+git commit -m "checking new scenario"
+git push -u origin master
+git pull
+cat myfile.txt
+git diff d311ff31397e70117f0869d248bb5772c07c3edf  4020019f7db92f42ff6cfa2aec7ec15d68549b98
+ls
+cat index.html
+cat myfile.txt
+cat help.txt
